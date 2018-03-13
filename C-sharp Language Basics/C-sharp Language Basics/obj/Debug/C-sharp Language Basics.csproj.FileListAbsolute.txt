@@ -1,6 +1,0 @@
-C:\Users\lande\Google Drive\School\CS 4330\Challenges\C-sharp Language Basics Git\C-sharp Language Basics\C-sharp Language Basics\bin\Debug\C-sharp Language Basics.exe.config
-C:\Users\lande\Google Drive\School\CS 4330\Challenges\C-sharp Language Basics Git\C-sharp Language Basics\C-sharp Language Basics\bin\Debug\C-sharp Language Basics.exe
-C:\Users\lande\Google Drive\School\CS 4330\Challenges\C-sharp Language Basics Git\C-sharp Language Basics\C-sharp Language Basics\bin\Debug\C-sharp Language Basics.pdb
-C:\Users\lande\Google Drive\School\CS 4330\Challenges\C-sharp Language Basics Git\C-sharp Language Basics\C-sharp Language Basics\obj\Debug\C-sharp Language Basics.csproj.CoreCompileInputs.cache
-C:\Users\lande\Google Drive\School\CS 4330\Challenges\C-sharp Language Basics Git\C-sharp Language Basics\C-sharp Language Basics\obj\Debug\C-sharp Language Basics.exe
-C:\Users\lande\Google Drive\School\CS 4330\Challenges\C-sharp Language Basics Git\C-sharp Language Basics\C-sharp Language Basics\obj\Debug\C-sharp Language Basics.pdb
